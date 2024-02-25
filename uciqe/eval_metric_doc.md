@@ -12,16 +12,10 @@ uciqe的github代码仓库：
 
 [GitHub - TongJiayan/UCIQE-python: Implementation of UCIQE with Python.](https://github.com/TongJiayan/UCIQE-python/tree/main)
 
-
-
 安装matlab 的python api：
 
 https://ww2.mathworks.cn/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
 
-根据UCIQE指标所在文献<An Underwater Color Image Quality Evaluation Metric>中使用UIEB的图像结果，实现了UCIQE的代码，由于这个结果与USUIR中的结果不一致，因此我们将我们的评价指标代码进行了开源。
+根据UCIQE指标所在文献<An Underwater Color Image Quality Evaluation Metric>中使用UIEB的图像结果，实现了UCIQE的代码，由于这个结果与USUIR中的结果不一致，因此我们将我们的评价指标代码进行了开源。[GitHub - JimReno/underwater_eval_metric: underwater image enhancement evaluation metric](https://github.com/JimReno/underwater_eval_metric)
 
 # UIQM指标调试记录
-
-
-
-

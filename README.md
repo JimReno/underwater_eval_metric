@@ -26,7 +26,7 @@ def calculate_psnr(img1, img2):
         return float('inf')  
     return 20 * np.log10(255.0 / np.sqrt(mse))  
 
-def  
+
 # example 
 img1 = np.random.randint(0, 256, (5, 5), dtype=np.uint8)  
 img2 = np.random.randint(0, 256, (5, 5), dtype=np.uint8)  
